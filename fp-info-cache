@@ -1,4 +1,4 @@
-20177438692953597
+20184044330702658
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85701,6 +85701,20 @@ capacitor
 2
 2
 global
+AM_Sink_2.5_USB_A_male
+USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
+USB-A
+0
+6
+5
+global
+Arduino_Nano
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+60
+30
+global
 Arduino_Nano_castellated
 Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino Nano
@@ -85722,6 +85736,13 @@ Logo
 0
 0
 global
+Pb_sign
+
+
+0
+0
+0
+global
 SW_Push_Alps_SKRK
 http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html
 SMD SMT button
@@ -85735,3 +85756,10 @@ test point SMD pad
 0
 1
 1
+global
+pf_plug
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+4
+2
