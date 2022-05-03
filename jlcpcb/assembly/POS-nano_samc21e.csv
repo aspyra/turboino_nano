@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100p,0402_minimalist,21.25,-23.625,90.0,top
+C2,10u,0603_minimalist,23.55,-42.215,90.0,top
+C3,1u,0402_minimalist,28.75,-33.05,0.0,top
+C4,100n,0402_minimalist,28.75,-34.0,0.0,top
+C5,10u,0603_minimalist,20.55,-42.215,-90.0,top
+C6,100n,0402_minimalist,19.75,-32.5,180.0,top
+C7,15p,0402_minimalist,28.75,-31.65,0.0,top
+C8,15p,0402_minimalist,28.75,-26.65,0.0,top
+C10,1u,0402_minimalist,27.125,-43.0892,0.0,top
+C11,1u,0402_minimalist,25.3,-40.0392,-90.0,top
+D1,PWR,LED_0603_1608Metric,28.7,-20.85,-90.0,top
+D2,USER,LED_0603_1608Metric,19.8,-20.85,-90.0,top
+FB1,470R,0603_minimalist,22.05,-42.215,-90.0,top
+FID4,Logo2,turboino_logo,24.165094,-34.318874,0.0,top
+FID5,Logo3,turboino_back,24.152753,-34.122047,180.0,bottom
+R1,10k,0402_minimalist,22.2,-23.625,90.0,top
+R2,330,0402_minimalist,20.3,-23.625,90.0,top
+R3,1k,0402_minimalist,23.15,-23.625,90.0,top
+R4,1k,0402_minimalist,24.1,-23.625,90.0,top
+R5,1k,0402_minimalist,19.35,-23.625,90.0,top
+SW1,RST,SW_SPST_SKQG_WithStem,23.15,-27.95,180.0,top
+Y1,32.768kHz 12.5p,Crystal_SMD_3215-2Pin_3.2x1.5mm,28.6,-29.15,-90.0,top
